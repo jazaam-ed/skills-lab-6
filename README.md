@@ -54,3 +54,23 @@ be vetted by linking their Twitter account. Accounts with verified NFT
 profile pictures will be prioritized. Be mindful of our Code of Conduct, 
 particularly the bit about not having pity for the weak. It's a dog
 eat dog world, and we are Rottweilers. 
+
+### Why the Apache License?
+--------
+Upon reviewing the suggested licenses Github provides, we decided that 
+the Apache license was a good fit for Akinatorino, being broad and 
+generally permissive. It's not too complicated and suits our very
+basic needs. We chose not to write a tongue-in-cheek license ourselves
+as we did with the Code of Conduct, as the legal jargon was a lot
+more complicated than we anticipated.
+
+### Why the Code of Conduct?
+--------
+Being that we took a comedic approach with the rest of this lab,
+we decided our CoC should have a similar tone. Therefore, 
+interspersed between typical standards of behavior and professionalism,
+we referenced the true goal of Akinatorino: to mine crypto and steal
+credit cards. Our CoC prioritizes cooperation between collaborators
+and predatory practices towards users. After all, we are mining
+their data. We adapted our CoC from the Contributor Covenant as a 
+base/skeleton. 
